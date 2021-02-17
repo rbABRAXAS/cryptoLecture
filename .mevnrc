@@ -1,0 +1,11 @@
+{
+  "name": "crypto-lecture",
+  "template": "Nuxt.js",
+  "modules": [],
+  "renderingMode": "spa",
+  "deployTarget": "server",
+  "isConfigured": {
+    "client": false,
+    "server": false
+  }
+}
